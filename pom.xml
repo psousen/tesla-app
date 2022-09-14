@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.91.193.105:8181/repository/visa-release/</url>
+	      <url>http://3.86.198.28:8181/repository/visa-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.91.193.105:8181/repository/visa-deployment/</url>
+	      <url>http://3.86.198.28:8181/repository/visa-deployment/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
