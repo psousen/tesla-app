@@ -10,9 +10,9 @@
 </head>
 <body>
 <h1 align="center">Welcome to Landmark Technologies.</h1>
-<h1 align="center">We are developing and supporting qualitySoftware Solutions to millions of clients.
+<h2 align="center">We are developing and supporting qualitySoftware Solutions to millions of clients.
 	           We are raising over 1m millionaires by 2030.
-	I am next in line for testitmony by the grace og God Almighty. I am blessed and highly favored.</h1>
+	I am next in line for testitmony by the grace og God Almighty. I am blessed and highly favored.</h2>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
